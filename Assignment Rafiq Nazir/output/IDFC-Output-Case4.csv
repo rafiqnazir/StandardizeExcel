@@ -1,0 +1,25 @@
+﻿Date,Transaction Description,Debit,Credit,Currency,CardName,Transaction,Location
+12-12-2017,SHOPPERS STOP LTD GURGAON         ,2886,0,INR,Rajat,Domestic Transactions, gurgaon
+12-12-2017,MORE MEGASTORE GURGAON            ,1500,0,INR,Rajat,Domestic Transactions, gurgaon
+13-12-2017,JUNOON RESTRO GURGAON             ,1255,0,INR,Rahul,Domestic Transactions, gurgaon
+13-12-2017,SHAHEED MANOHAR LAL FIL  GURGAON  ,1968,0,INR,Rajat,Domestic Transactions, gurgaon
+13-12-2017,LIVE PHARMACY GURGAON             ,627,0,INR,Rajat,Domestic Transactions, gurgaon
+16-12-2017,POONAM SERVICE STATION GURGAON    ,0,17,INR,Rahul,Domestic Transactions, gurgaon
+16-12-2017,KABI BESPOKE BOUTIQUE GURGAON     ,220,0,INR,Rahul,Domestic Transactions, gurgaon
+16-12-2017,CLEARTRIP TRAVEL SERVIC MUMBAI     ,14849,0,INR,Rahul,Domestic Transactions, mumbai
+21-12-2017,INDIAN RAILWAY CATERINGNEW DELHI  ,1684,0,INR,Rahul,Domestic Transactions, delhi
+22-12-2017,CLEARTRIP TRAVEL SERVIC MUMBAI     ,5205,0,INR,Rahul,Domestic Transactions, mumbai
+22-12-2017,MSW*BLISS HOSPITALITIE Delhi NCR  ,3764,0,INR,Rahul,Domestic Transactions, ncr
+23-12-2017,NIMITAYA HOTEL & RESOR GURGAON    ,3475,0,INR,Rahul,Domestic Transactions, gurgaon
+24-12-2017,BIKANERVALA (GURGAON U) GURGAON   ,278,0,INR,Rahul,Domestic Transactions, gurgaon
+02-01-2018,THAI CHI STREETGURGAON            ,987,0,INR,Rajat,Domestic Transactions, streetgurgaon
+02-01-2018,AMAZON PAY BANGALORE              ,1875,0,INR,Rajat,Domestic Transactions, bangalore
+04-01-2018,SHAHEED MANOHAR LAL FIL GURGAON   ,0,18,INR,Rajat,Domestic Transactions, gurgaon
+08-01-2018,BIKANERVALA (GURGAON U GURGAON    ,420,0,INR,Rajat,Domestic Transactions, gurgaon
+09-01-2018,MOPS-SBC-CR-CARD-E MUMBAI         ,500000,0,INR,Rajat,Domestic Transactions, mumbai
+13-01-2018,SRILANKANUPGRADE KATUNAYAKE        ,10,0, EUR,Rahul,International Transactions, katunayake
+02-08-2018,EURO WINGS DUSSELDOR               ,10,0, EUR,Rahul,International Transactions, dusseldor
+01-14-2018,HEALTHGUARD LIMITED KATUNAYAKE     ,0,8, USD,Rahul,International Transactions, katunayake
+01-14-2018,FOOT RUB BERLIN                    ,21,0, EUR,Rahul,International Transactions, berlin
+01-20-2018,California Games CALIFORNIA        ,101,0, USD,Rahul,International Transactions, california
+01-30-2018,NewYorkShop NEWYORK                ,199,0, USD,Rahul,International Transactions, newyork
